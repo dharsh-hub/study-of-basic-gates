@@ -85,9 +85,9 @@ endmodule
 **RTL realization Output:** 
 ![exp1](https://github.com/user-attachments/assets/4b2b4637-91bf-4250-b7c4-27a77544c859)
 
-**TIMING WAVWFORM**
+**TIMING WAVEFORM**
 ![image](https://github.com/user-attachments/assets/24ddd5b6-8098-4848-8938-c420c37e8bd6)
 
 **Result:**
-BASIC LOGIC GATES ARE STUDIED AN DTHE TRUTH TABLES ARE VERIFIED
+BASIC LOGIC GATES ARE STUDIED AND THE TRUTH TABLES ARE VERIFIED
 
