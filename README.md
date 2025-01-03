@@ -86,7 +86,8 @@ endmodule
 ![exp1](https://github.com/user-attachments/assets/4b2b4637-91bf-4250-b7c4-27a77544c859)
 
 **TIMING WAVEFORM**
-![image](https://github.com/user-attachments/assets/24ddd5b6-8098-4848-8938-c420c37e8bd6)
+![image](https://github.com/user-attachments/assets/b541b656-888f-4e8d-92d0-9a04a139b2fc)
+
 
 **Result:**
 BASIC LOGIC GATES ARE STUDIED AND THE TRUTH TABLES ARE VERIFIED
